@@ -1,4 +1,4 @@
-const friends = require("data/friends") 
+const friends = require("../data/friends") 
 
 console.log(friends)
 
