@@ -1,6 +1,6 @@
 // Object
 
-let friends = [{
+let Friends = [{
     "name":"Loren",
     "photo":"https://media.licdn.com/dms/image/C5103AQHWxIJr9Tkmew/profile-displayphoto-shrink_200_200/0?e=1582761600&v=beta&t=V6egElEZQ5xOW1IVx92desR1q_G4I7yC4XiDjIhOsjE",
     "scores":[
@@ -17,4 +17,4 @@ let friends = [{
     ]
 }]
 
-module.exports = friends
+module.exports = Friends;
