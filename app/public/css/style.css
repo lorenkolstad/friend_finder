@@ -2,15 +2,29 @@ body {
     color: darkslategray;
 }
 
-.form-row {
+.card-body {
     margin: 20px;
     padding: 10px;
-}
+} 
 
-select {
+/* select {
     color: darkslategray;
+} */
+
+/* .links {
+    margin: 10px 0 0 0;
+} */
+
+h3 {
+    font-weight: 750;
 }
 
-.links {
-    margin: 10px 0 0 0;
+.jumbotron {
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+    padding: 10px;
+    /* text-align: center; */
 }
